@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Killer2">
+    <output-path>$PROJECT_DIR$/out/artifacts/Killer2</output-path>
+    <root id="archive" name="Killer2.jar">
+      <element id="directory" name="META-INF" />
+      <element id="module-output" name="Killer2" />
+    </root>
+  </artifact>
+</component>
